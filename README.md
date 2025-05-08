@@ -25,7 +25,10 @@ Saya tertarik pada data, AI, teknologi, dan pemecahan masalah secara kreatif. Pr
 - 🚗 **Analisis Simulasi Kemacetan Provinsi DKI Jakarta menggunakan Model Hierarchical Linkage Cluster Classification**  
   Analisis data kemacetan di Provinsi DKI Jakarta menggunakan model klasifikasi hierarchical linkage cluster untuk mengidentifikasi pola kemacetan berdasarkan lokasi, penyebab, dan faktor lainnya. Proyek ini bertujuan untuk memahami penyebab kemacetan, merancang upaya mitigasi yang efektif, dan memberikan rekomendasi tindak lanjut guna meningkatkan manajemen lalu lintas di daerah urban.
 
+- 🚦 **Perancangan Sistem Pengaturan Durasi Lampu Lalu Lintas menggunakan Logika Fuzzy**  
+  Sistem pengaturan durasi lampu hijau secara otomatis berdasarkan logika fuzzy. Menggunakan variabel input seperti jumlah kendaraan, waktu tunggu, dan tingkat kepadatan lalu lintas untuk menentukan durasi lampu hijau secara adaptif, guna mengurangi kemacetan dan meningkatkan efisiensi lalu lintas.
 
+- 
 
 ### ⚡ Fakta Menarik
 Saya percaya kompleksitas manusia itu seperti deret waktu yang tidak stasioner — kita hanya perlu transformasi untuk menemukan kestabilan.
