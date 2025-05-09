@@ -28,7 +28,11 @@ Saya tertarik pada data, AI, teknologi, dan pemecahan masalah secara kreatif. Pr
 - 🚦 **Perancangan Sistem Pengaturan Durasi Lampu Lalu Lintas menggunakan Logika Fuzzy**  
   Sistem pengaturan durasi lampu hijau secara otomatis berdasarkan logika fuzzy. Menggunakan variabel input seperti jumlah kendaraan, waktu tunggu, dan tingkat kepadatan lalu lintas untuk menentukan durasi lampu hijau secara adaptif, guna mengurangi kemacetan dan meningkatkan efisiensi lalu lintas.
 
-- 
+- 🏅 **Sistem Pendukung Keputusan Pemilihan Calon Lulusan Terbaik Fakultas menggunakan Metode COMET (MCDM)**  
+  Sistem pendukung keputusan berbasis Multi-Criteria Decision Making (MCDM) menggunakan metode COMET dengan penerapan bobot skala kriteria fuzzy. Sistem ini menilai 20 alternatif (mahasiswa) berdasarkan 5 kriteria utama: prestasi akademik (IPK), karya tulis ilmiah, kegiatan ko- dan ekstrakurikuler, kemampuan berbahasa asing, dan kepribadian. Data yang digunakan merupakan data dummy untuk simulasi pemilihan calon lulusan terbaik secara objektif dan terstruktur.
+
+  
+
 
 ### ⚡ Fakta Menarik
 Saya percaya kompleksitas manusia itu seperti deret waktu yang tidak stasioner — kita hanya perlu transformasi untuk menemukan kestabilan.
